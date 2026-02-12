@@ -28,5 +28,5 @@ A **Java-based Password Manager** that securely stores, manages, and retrieves w
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️[ Project Structure]()
 
